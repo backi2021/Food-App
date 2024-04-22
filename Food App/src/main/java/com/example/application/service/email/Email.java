@@ -9,10 +9,7 @@ import java.util.Properties;
 
 
 /*
-Link for tutorials
-https://falconbyte.net/java-email-senden.php
 Bibliotheks-Datei javax.mail.jar ->  https://github.com/javaee/javamail/releases
-
  */
 
 
